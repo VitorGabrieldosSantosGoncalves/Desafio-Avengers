@@ -1,0 +1,21 @@
+.rodape {
+    display: flex;
+}
+
+.gif-thor {
+    width: 100%;
+    max-height: 300px;
+}
+
+.lista-rodape {
+    position: absolute;
+    list-style: none;
+    font-size: 33px;
+    color: rgba(28,28,28);
+    text-align: center;
+    align-items: center;
+    margin-left: 450px;
+    text-decoration: underline;
+    padding-top: 7.1%;
+}
+

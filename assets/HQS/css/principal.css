@@ -1,0 +1,86 @@
+@import url(../../historia/css/principal.css);
+@import url(../../UCM/css/principal.css);
+
+.ucm, .ucm-1, .ucm-2, .ucm-3, .ucm-4, .ucm-5, .ucm-6, .hq, .hq-1, .hq-2, .hq-3, .hq-4 {
+  background-image: url(https://i.gifer.com/4JoX.gif);
+  background-size: cover;
+  object-position: center;
+  border-top: 3px solid blue;
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-bottom: 30px;
+  border-bottom: 4px solid black;
+}
+
+.titulo-h {
+  margin-top: 10px;
+  width: 30%;
+  color: #7B68EE !important;
+}
+.thor-1 {
+  width: 27%;
+  height: 300px;
+  float: right;
+  margin-right: 3%;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+
+.ucm-ar {
+  padding-bottom: 50px;
+}
+
+/*Vingadores*/
+
+.thor-1 {
+  height: 300px;
+}
+
+.ucm-1 {
+  background-image: url(https://capricho.abril.com.br/wp-content/uploads/2019/04/vingadores-originais-gif.gif);
+  padding-bottom: 35px;
+}
+
+/*Mundo Sombrio*/
+
+.ucm-2 {
+  background-image: url(https://i.pinimg.com/originals/c4/2a/f1/c42af1aba954bc25f6fbb3cc9006c634.gif);
+}
+
+/*Era de Ultron*/
+
+.ucm-3 {
+  background-image: url(https://akns-images.eonline.com/eol_images/Entire_Site/2014923/rs_500x209-141023095612-insta.gif?fit=around%7C500:209&output-quality=90&crop=500:209;center,top);
+}
+
+/* Ragnarok*/
+
+.ucm-4 {
+  background-image: url(https://i.makeagif.com/media/1-03-2019/YTGcYg.gif);
+}
+
+/*Guerra Infinita */
+
+.ucm-5 {
+  background-image: url(https://img.wattpad.com/dee7e0916cf03505def5b9ba37af38faf481b355/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6951385844496d59562d7a4d70513d3d2d313034363035343132352e313637303530393939383938313034313131313239333631363339322e676966);
+}
+
+/*Ultimato*/
+
+.ucm-6 {
+  background-image: url(https://temalguemassistindo.com.br/wp-content/uploads/2019/06/thor-vingadores-ultimato-gif.gif);
+}
+
+/*botao*/
+.botao, .link-botao {
+  background-color: #FFD700 !important;
+  text-decoration: none;
+  color: #000000;
+  font-family: 'Noto Sans Mono', monospace;
+  margin-top: 10px;
+}
+
+.link-botao {
+  background-color: none;
+
+}

@@ -1,0 +1,43 @@
+@import url(../../historia/css/principal.css);
+@import url(../../UCM/css/principal.css);
+
+.hq {
+    background-image: url(../../HQS/img/fundo/thor-1.jpg);
+    background-size: cover;
+    object-position: center;
+    border-top: 3px solid blue;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    border-bottom: 4px solid black;
+    background-position: center;
+    
+}
+
+.titulo-h {
+    width: 33%;
+}
+
+/*hq-1*/
+
+.hq-1 {
+    background-image: url(../../HQS/img/fundo/thor-2.jpg);
+}
+
+/*hq-2*/
+
+.hq-2 {
+    background-image: url(../../HQS/img/fundo/thor-3.jpg);
+}
+
+/*hq-3*/ 
+
+.hq-3 {
+    background-image: url(../../HQS/img/fundo/thor-4.jpeg);
+}
+
+/*hq-4*/
+
+.hq-4 {
+    background-image: url(../../HQS/img/fundo/thor-4.jpg);
+}

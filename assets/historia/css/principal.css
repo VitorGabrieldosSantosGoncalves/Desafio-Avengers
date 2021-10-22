@@ -1,0 +1,96 @@
+.principal {
+  background-image: url(https://comicvine1.cbsistatic.com/uploads/original/3/30334/2356077-mu8573.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.imagem-home {
+  width: 50%;
+  height: 500px;
+  display: inline-block;
+  
+}
+
+.texto-home {
+  font-size: 30px;
+  text-align: center;
+  color: rgba(255,255,255, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 18px;
+  border-radius: 30px;
+  width: 33%;
+  margin-top: 25px;
+}
+
+/* Pagina Historia*/
+.titulo-h {
+  background-color: var(--cor-fundo);
+  border-radius: 30px;
+  width: 25%;
+  padding-left: 5px;
+  padding-bottom: 2px;
+  border: 1px solid #0f0000;
+  color: rgb(28,28,28);
+}
+.historia-mi, .historia-pe, .historia-pu {
+  background-image: url(../img/fundo/fundo-1.jpg);
+  background-size: cover;
+  object-position: center;
+  border-top: 3px solid blue;
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-bottom: 30px;
+  border-bottom: 4px solid black;
+}
+
+.thor-1, .thor-2, .thor-3 {
+  width: 27%;
+  height: 200px;
+  float: right;
+  margin-right: 3%;
+  border: 1px solid black;
+  border-radius: 30px;
+  
+}
+
+.texto-m, .texto-m1, .texto-m3 {
+  padding-top: 19.5px;
+  padding-left: 15px;
+  color: var(--cor--);
+  background-color: var(--cor-fundo);
+  border-radius: 30px;
+  padding-bottom: 7px;
+  font-family: var(--fonte--);
+}
+
+.texto-m1 {
+  padding-top: 9px;
+  width: 67%;
+  margin-right: 29px;
+  padding-bottom: 7px;
+}
+
+/*Historia Personagem*/
+
+.historia-pe {
+  background-image: url(../img/fundo/thor-2.jpg);
+}
+
+.texto-m3{
+  width: 67%;
+}
+
+.thor-2 {
+  width: 28.5%;
+  height: 230px;
+}
+
+/* Sugimento no UCM*/
+
+.historia-pu {
+  background-image: url(../img/fundo/thor-3.jpeg);
+  padding-bottom: 55px;
+}

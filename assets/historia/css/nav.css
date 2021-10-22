@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    color: wheat !important;
+    font-size: 53px;
+    margin-right: 480px;
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+
+.item-link {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    padding-left: 25px !important;
+}

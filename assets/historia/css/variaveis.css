@@ -1,0 +1,5 @@
+@import url(../../css/variaveis.css);
+:root {
+    --fonte--:'Trebuchet MS' , 'Lucida Sans Unicode';
+    --cor--: rgba(255,255,255, 0.6);
+}

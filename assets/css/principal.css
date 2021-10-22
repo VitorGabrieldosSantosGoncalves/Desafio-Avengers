@@ -1,0 +1,27 @@
+.principal {
+  background-image: url(https://comicvine1.cbsistatic.com/uploads/original/3/30334/2356077-mu8573.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.imagem-home {
+  width: 50%;
+  height: 500px;
+  display: inline-block;
+  
+}
+
+.texto-home {
+  font-size: 30px;
+  text-align: center;
+  color: rgba(255,255,255, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 18px;
+  border-radius: 30px;
+  width: 33%;
+  margin-top: 25px;
+}
+
